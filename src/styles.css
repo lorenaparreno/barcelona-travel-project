@@ -276,6 +276,11 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+.photo-gallery {
+    margin: 30px 0;
+}
+
+
 .card {
     background: white;
     margin: 30px 0;
